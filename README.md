@@ -13,4 +13,5 @@ The shaders are rendered into two seperate fram buffers (PGraphics) which are th
 
 The shaders are modified ones I found on shadertoy. I left the authors names intact present them only to test this theory.
 
+https://github.com/nosarious/image-mask-shaders/blob/master/twoShaderOneVideo.jpg
 
